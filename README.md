@@ -17,3 +17,6 @@ The aim of this project is to develop a responsive single-page web application t
 This project focuses on combining HTML, CSS, and JavaScript to create a fully responsive and interactive interface. The webpage will be mobile-friendly and optimized for various screen sizes, ensuring accessibility and usability on devices ranging from smartphones to desktops.
 
 The application features a search bar where users can input a city name. Upon submission, JavaScript uses the fetch API to send a request to OpenWeatherMap. The response data includes various weather attributes
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/3b7091c2-c54d-481a-8345-59297c921c89)
